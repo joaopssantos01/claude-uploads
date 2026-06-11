@@ -1,0 +1,99 @@
+{
+ "produto": "epicuris-essencia-exfoliante",
+ "total": 20,
+ "atualizado_em": "2026-06-11T23:10Z",
+ "personagem": "Carla (rotacao refs 1-2-3)",
+ "product_image_url": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/tiktok-pipeline/2026-06-11-2046/epicuris-essencia-exfoliante.jpg",
+ "roteiros_md": "tiktok-pipeline/epicuris/epicuris-roteiros-v4-v20.md",
+ "videos": [
+  {
+   "id": "V1",
+   "status": "dublado",
+   "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/05a3e488-2798-41c3-bc29-e18d742bbcdc.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T213038Z&X-Amz-Expires=604800&X-Amz-Signature=1bb33308e1745996b8939383e170ff18b381f06cababba3fec0a87328d9f6545&X-Amz-SignedHeaders=host",
+   "dublagem": "hibrido",
+   "nota": "dublado localmente nesta conversa; arquivo *_amandoca.mp4 entregue ao user"
+  },
+  {
+   "id": "V2",
+   "status": "dublado",
+   "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/25649448-d6af-4daa-b3f1-b0ac8736abfe.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T214633Z&X-Amz-Expires=604800&X-Amz-Signature=900e3b55490c095dcb99bdc561d29d44adf6145d557b480bc9f36e69189a6b5e&X-Amz-SignedHeaders=host",
+   "dublagem": "hibrido",
+   "nota": "dublado localmente nesta conversa; arquivo *_amandoca.mp4 entregue ao user"
+  },
+  {
+   "id": "V3",
+   "status": "dublado",
+   "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/088af8eb-ebae-484e-9544-6c98b40474a5.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T222838Z&X-Amz-Expires=604800&X-Amz-Signature=d358ceb2a17dacd3526a3ced500291b74c9546bc50dafde3ab27707cc9cd0db2&X-Amz-SignedHeaders=host",
+   "dublagem": "full-dub",
+   "nota": "dublado localmente nesta conversa; arquivo *_amandoca.mp4 entregue ao user"
+  },
+  {
+   "id": "V4",
+   "status": "pendente"
+  },
+  {
+   "id": "V5",
+   "status": "pendente"
+  },
+  {
+   "id": "V6",
+   "status": "pendente"
+  },
+  {
+   "id": "V7",
+   "status": "pendente"
+  },
+  {
+   "id": "V8",
+   "status": "pendente"
+  },
+  {
+   "id": "V9",
+   "status": "pendente"
+  },
+  {
+   "id": "V10",
+   "status": "pendente"
+  },
+  {
+   "id": "V11",
+   "status": "pendente"
+  },
+  {
+   "id": "V12",
+   "status": "pendente"
+  },
+  {
+   "id": "V13",
+   "status": "pendente"
+  },
+  {
+   "id": "V14",
+   "status": "pendente"
+  },
+  {
+   "id": "V15",
+   "status": "pendente"
+  },
+  {
+   "id": "V16",
+   "status": "pendente"
+  },
+  {
+   "id": "V17",
+   "status": "pendente"
+  },
+  {
+   "id": "V18",
+   "status": "pendente"
+  },
+  {
+   "id": "V19",
+   "status": "pendente"
+  },
+  {
+   "id": "V20",
+   "status": "pendente"
+  }
+ ]
+}
