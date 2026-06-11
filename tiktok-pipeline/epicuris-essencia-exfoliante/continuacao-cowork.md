@@ -1,4 +1,4 @@
-# Epicuris Essência Exfoliante — CONTINUAÇÃO DO LOTE (V3 coleta + V4–V20)
+# Epicuris Essência Exfoliante — CONTINUAÇÃO DO LOTE (V4–V20)
 **Gerado:** 2026-06-11 ~23:30 BRT · **Para retomada via Cowork com a skill `au4-ugc-express`**
 
 ## ⚡ ESTADO ATUAL DO LOTE (progresso também em `tiktok-pipeline/epicuris-essencia-exfoliante/progresso.json` no repo `joaopssantos01/claude-uploads`)
@@ -7,23 +7,14 @@
 |---|--------|------------|
 | V1 | ✅ **dublado** (`v1_amandoca.mp4` entregue no chat) | original 0–3.71s (hook) + Amandoca, atempo 1.194 |
 | V2 | ✅ **dublado** (`v2_amandoca.mp4` entregue no chat) | original 0–3.33s (hook) + Amandoca, atempo 1.237 |
-| V3 | 🟠 **gerado na Au4, URL NÃO coletada** | ver instruções abaixo |
+| V3 | ✅ **dublado** (`v3_amandoca.mp4` entregue no chat) | dublado pela instância Cowork em paralelo |
 | V4–V20 | ⏳ pendentes | roteiros completos neste arquivo |
 
 **URLs S3 já coletadas (válidas até ~2026-06-18):**
 - V1 bruto: `https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/05a3e488-2798-41c3-bc29-e18d742bbcdc.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T213038Z&X-Amz-Expires=604800&X-Amz-Signature=1bb33308e1745996b8939383e170ff18b381f06cababba3fec0a87328d9f6545&X-Amz-SignedHeaders=host`
 - V2 bruto: `https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/25649448-d6af-4daa-b3f1-b0ac8736abfe.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T214633Z&X-Amz-Expires=604800&X-Amz-Signature=900e3b55490c095dcb99bdc561d29d44adf6145d557b480bc9f36e69189a6b5e&X-Amz-SignedHeaders=host`
 
-## 🔴 PRIMEIRA TAREFA: coletar e dublar o V3
-O V3 (Review · Escorregão · Carla-3) foi DISPARADO e renderizou na Au4, mas a URL não foi capturada
-(Chrome desconectou). Coletar na **biblioteca** (`/criativos/biblioteca` → filtro **UGC Videos** →
-card mais recente = índice 0 → Download → URL via network `wasabisys`). Depois dublar (modo híbrido,
-trecho original ≈ hook 0–3.5s — CONFIRME com `--dry-run` e fixe com `--orig`):
-
-**Texto de dublagem do V3 (voice over já tratado, ~33 palavras):**
-```
-[excited] É acúmulo de célula morta — e esse exfoliante age exatamente nisso: esfolia, renova e devolve o viço. [playfully] A base assenta diferente. [cheerfully] Salva esse vídeo — tá no carrinho laranja.
-```
+## ✅ V1–V3 concluídos e dublados — retomar do V4
 
 ## ⚙️ COMO RETOMAR (fluxo da skill `au4-ugc-express`)
 1. Abrir `https://www.au4.ai/criativos/ugc-seedance` (extensão **Au4 UGC Filler** instalada;
@@ -434,4 +425,4 @@ Nenhum icone, texto ou legenda deve aparecer no vídeo
 
 ## Checklist de variação (V4–V20)
 A rotação tripla/hook/CTA/família/Carla está embutida em cada bloco acima (nada repete no lote).
-Custo estimado restante: 18 vídeos (V3 já gerado; V4–V20 = 17 × ~113 créditos ≈ 1.921 créditos).
+Custo estimado restante: V4–V20 = 17 × ~113 créditos ≈ 1.921 créditos.
