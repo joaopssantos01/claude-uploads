@@ -2,7 +2,7 @@
  "produto": "epicuris-essencia-exfoliante",
  "personagem": "Carla",
  "total": 20,
- "atualizado_em": "2026-06-11T23:34+00:00",
+ "atualizado_em": "2026-06-11T23:35+00:00",
  "product_image_url": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/tiktok-pipeline/2026-06-11-2046/epicuris-essencia-exfoliante.jpg",
  "roteiros_md": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/tiktok-pipeline/epicuris-essencia-exfoliante/continuacao-cowork.md",
  "videos": [
@@ -20,8 +20,8 @@
   },
   {
    "id": "V3",
-   "status": "gerado_sem_url",
-   "nota": "coletar na biblioteca (card mais recente, UGC Videos) e dublar — texto de dublagem no MD"
+   "status": "dublado",
+   "nota": "v3_amandoca.mp4 entregue no chat (dublado pela instancia Cowork)"
   },
   {
    "id": "V4",
