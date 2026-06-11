@@ -1,0 +1,95 @@
+{
+ "produto": "epicuris-essencia-exfoliante",
+ "personagem": "Carla",
+ "total": 20,
+ "atualizado_em": "2026-06-11T23:34+00:00",
+ "product_image_url": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/tiktok-pipeline/2026-06-11-2046/epicuris-essencia-exfoliante.jpg",
+ "roteiros_md": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/tiktok-pipeline/epicuris-essencia-exfoliante/continuacao-cowork.md",
+ "videos": [
+  {
+   "id": "V1",
+   "status": "dublado",
+   "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/05a3e488-2798-41c3-bc29-e18d742bbcdc.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T213038Z&X-Amz-Expires=604800&X-Amz-Signature=1bb33308e1745996b8939383e170ff18b381f06cababba3fec0a87328d9f6545&X-Amz-SignedHeaders=host",
+   "nota": "v1_amandoca.mp4 entregue no chat; atempo 1.194; original 0-3.71s"
+  },
+  {
+   "id": "V2",
+   "status": "dublado",
+   "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/25649448-d6af-4daa-b3f1-b0ac8736abfe.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T214633Z&X-Amz-Expires=604800&X-Amz-Signature=900e3b55490c095dcb99bdc561d29d44adf6145d557b480bc9f36e69189a6b5e&X-Amz-SignedHeaders=host",
+   "nota": "v2_amandoca.mp4 entregue no chat; atempo 1.237; original 0-3.33s"
+  },
+  {
+   "id": "V3",
+   "status": "gerado_sem_url",
+   "nota": "coletar na biblioteca (card mais recente, UGC Videos) e dublar — texto de dublagem no MD"
+  },
+  {
+   "id": "V4",
+   "status": "pendente"
+  },
+  {
+   "id": "V5",
+   "status": "pendente"
+  },
+  {
+   "id": "V6",
+   "status": "pendente"
+  },
+  {
+   "id": "V7",
+   "status": "pendente"
+  },
+  {
+   "id": "V8",
+   "status": "pendente"
+  },
+  {
+   "id": "V9",
+   "status": "pendente"
+  },
+  {
+   "id": "V10",
+   "status": "pendente"
+  },
+  {
+   "id": "V11",
+   "status": "pendente"
+  },
+  {
+   "id": "V12",
+   "status": "pendente"
+  },
+  {
+   "id": "V13",
+   "status": "pendente"
+  },
+  {
+   "id": "V14",
+   "status": "pendente"
+  },
+  {
+   "id": "V15",
+   "status": "pendente"
+  },
+  {
+   "id": "V16",
+   "status": "pendente"
+  },
+  {
+   "id": "V17",
+   "status": "pendente"
+  },
+  {
+   "id": "V18",
+   "status": "pendente"
+  },
+  {
+   "id": "V19",
+   "status": "pendente"
+  },
+  {
+   "id": "V20",
+   "status": "pendente"
+  }
+ ]
+}
