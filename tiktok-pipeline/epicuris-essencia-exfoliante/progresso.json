@@ -3,7 +3,7 @@
   "productName": "Epicuris",
   "productImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/tiktok-pipeline/2026-06-12-0113/IMG_1929.jpg",
   "total": 20,
-  "atualizado_em": "2026-06-12T02:11:37.884817+00:00",
+  "atualizado_em": "2026-06-12T02:18:01.387138+00:00",
   "videos": [
     {
       "id": "V1",
@@ -16,12 +16,12 @@
     },
     {
       "id": "V2",
-      "status": "coletado",
+      "status": "dublado",
       "videoType": "Unboxing",
       "tone": "Authentic",
       "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117113705_5urxmw5.png",
       "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/7d4bd3f7-a1d1-4d6c-8790-ab87a23671c0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260612T021056Z&X-Amz-Expires=604800&X-Amz-Signature=e30036437e095eb18a7467569c4c23d163c72b4bf022c1c2778a45d7c51e948a&X-Amz-SignedHeaders=host",
-      "url_dublado": null
+      "url_dublado": "local:V2_epicuris_hibrido.mp4"
     },
     {
       "id": "V3",
