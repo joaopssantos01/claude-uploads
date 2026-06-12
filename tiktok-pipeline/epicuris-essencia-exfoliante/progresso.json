@@ -1,189 +1,47 @@
 {
   "produto": "epicuris-essencia-exfoliante",
-  "productName": "Epicuris",
-  "productImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/tiktok-pipeline/2026-06-12-0113/IMG_1929.jpg",
-  "total": 20,
-  "atualizado_em": "2026-06-12T02:34:36.900653+00:00",
+  "total": 10,
+  "atualizado_em": "2026-06-12T23:33Z",
   "videos": [
     {
       "id": "V1",
-      "status": "dublado",
-      "videoType": "Review",
-      "tone": "Authentic",
-      "faceImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/personagens/carla/carla-ref-principal.jpg",
-      "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/4db8d135-9606-4203-809f-27df33ad9f36.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260612T013702Z&X-Amz-Expires=604800&X-Amz-Signature=9978bf8e986d2ed2b9011fe542560d42ae3099975c5213a18f74dc71acde2091&X-Amz-SignedHeaders=host",
-      "url_dublado": "local:V1_epicuris_hibrido.mp4"
+      "status": "gerando"
     },
     {
       "id": "V2",
-      "status": "dublado",
-      "videoType": "Unboxing",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117113705_5urxmw5.png",
-      "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/7d4bd3f7-a1d1-4d6c-8790-ab87a23671c0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260612T021056Z&X-Amz-Expires=604800&X-Amz-Signature=e30036437e095eb18a7467569c4c23d163c72b4bf022c1c2778a45d7c51e948a&X-Amz-SignedHeaders=host",
-      "url_dublado": "local:V2_epicuris_hibrido.mp4"
+      "status": "pendente"
     },
     {
       "id": "V3",
-      "status": "coletado",
-      "videoType": "Review",
-      "tone": "Energetic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117326937_9ofeba0.png",
-      "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/8933989e-8e6d-4d25-80c9-34dc30ad649a.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260612T023355Z&X-Amz-Expires=604800&X-Amz-Signature=7d67d2a04cf8da4bd84502a58208032a2747978117a7dbaf7a62b921f1ba95db&X-Amz-SignedHeaders=host",
-      "url_dublado": null
+      "status": "pendente"
     },
     {
       "id": "V4",
-      "status": "gerando",
-      "videoType": "Unboxing",
-      "tone": "Authentic",
-      "faceImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/personagens/carla/carla-ref-principal.jpg",
-      "url_s3": null,
-      "url_dublado": null
+      "status": "pendente"
     },
     {
       "id": "V5",
-      "status": "pendente",
-      "videoType": "Review",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117113705_5urxmw5.png",
-      "url_s3": null,
-      "url_dublado": null
+      "status": "pendente"
     },
     {
       "id": "V6",
-      "status": "pendente",
-      "videoType": "Unboxing",
-      "tone": "Energetic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117326937_9ofeba0.png",
-      "url_s3": null,
-      "url_dublado": null
+      "status": "pendente"
     },
     {
       "id": "V7",
-      "status": "pendente",
-      "videoType": "Review",
-      "tone": "Authentic",
-      "faceImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/personagens/carla/carla-ref-principal.jpg",
-      "url_s3": null,
-      "url_dublado": null
+      "status": "pendente"
     },
     {
       "id": "V8",
-      "status": "pendente",
-      "videoType": "Unboxing",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117113705_5urxmw5.png",
-      "url_s3": null,
-      "url_dublado": null
+      "status": "pendente"
     },
     {
       "id": "V9",
-      "status": "pendente",
-      "videoType": "Review",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117326937_9ofeba0.png",
-      "url_s3": null,
-      "url_dublado": null
+      "status": "pendente"
     },
     {
       "id": "V10",
-      "status": "pendente",
-      "videoType": "Unboxing",
-      "tone": "Authentic",
-      "faceImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/personagens/carla/carla-ref-principal.jpg",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V11",
-      "status": "pendente",
-      "videoType": "Review",
-      "tone": "Energetic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117113705_5urxmw5.png",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V12",
-      "status": "pendente",
-      "videoType": "Unboxing",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117326937_9ofeba0.png",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V13",
-      "status": "pendente",
-      "videoType": "Review",
-      "tone": "Authentic",
-      "faceImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/personagens/carla/carla-ref-principal.jpg",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V14",
-      "status": "pendente",
-      "videoType": "Unboxing",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117113705_5urxmw5.png",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V15",
-      "status": "pendente",
-      "videoType": "Review",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117326937_9ofeba0.png",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V16",
-      "status": "pendente",
-      "videoType": "Unboxing",
-      "tone": "Energetic",
-      "faceImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/personagens/carla/carla-ref-principal.jpg",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V17",
-      "status": "pendente",
-      "videoType": "Review",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117113705_5urxmw5.png",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V18",
-      "status": "pendente",
-      "videoType": "Unboxing",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117326937_9ofeba0.png",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V19",
-      "status": "pendente",
-      "videoType": "Review",
-      "tone": "Authentic",
-      "faceImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/personagens/carla/carla-ref-principal.jpg",
-      "url_s3": null,
-      "url_dublado": null
-    },
-    {
-      "id": "V20",
-      "status": "pendente",
-      "videoType": "Unboxing",
-      "tone": "Authentic",
-      "faceImageUrl": "https://uxmajgriujjsosuxpzyt.supabase.co/storage/v1/object/public/generated-images/or_1781117113705_5urxmw5.png",
-      "url_s3": null,
-      "url_dublado": null
+      "status": "pendente"
     }
   ]
 }
