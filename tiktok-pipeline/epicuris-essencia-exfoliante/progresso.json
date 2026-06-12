@@ -3,11 +3,11 @@
   "productName": "Epicuris",
   "productImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/tiktok-pipeline/2026-06-12-0113/IMG_1929.jpg",
   "total": 20,
-  "atualizado_em": "2026-06-12T01:13:51.834322+00:00",
+  "atualizado_em": "2026-06-12T01:22:35.951840+00:00",
   "videos": [
     {
       "id": "V1",
-      "status": "pendente",
+      "status": "gerando",
       "videoType": "Review",
       "tone": "Authentic",
       "faceImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/personagens/carla/carla-ref-principal.jpg",
