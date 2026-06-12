@@ -3,16 +3,16 @@
   "productName": "Epicuris",
   "productImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/tiktok-pipeline/2026-06-12-0113/IMG_1929.jpg",
   "total": 20,
-  "atualizado_em": "2026-06-12T01:41:36.915265+00:00",
+  "atualizado_em": "2026-06-12T01:51:59.873164+00:00",
   "videos": [
     {
       "id": "V1",
-      "status": "coletado",
+      "status": "dublado",
       "videoType": "Review",
       "tone": "Authentic",
       "faceImageUrl": "https://raw.githubusercontent.com/joaopssantos01/claude-uploads/main/personagens/carla/carla-ref-principal.jpg",
       "url_s3": "https://s3.us-east-1.wasabisys.com/au4ia/ugc-videos/4db8d135-9606-4203-809f-27df33ad9f36.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=B16X1S9MEZNMGXAW2RQ2%2F20260612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260612T013702Z&X-Amz-Expires=604800&X-Amz-Signature=9978bf8e986d2ed2b9011fe542560d42ae3099975c5213a18f74dc71acde2091&X-Amz-SignedHeaders=host",
-      "url_dublado": null
+      "url_dublado": "local:V1_epicuris_hibrido.mp4"
     },
     {
       "id": "V2",
